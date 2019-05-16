@@ -10,3 +10,6 @@ dependencies:
 - name: python-test-2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: python-test-repo5
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
